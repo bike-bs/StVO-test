@@ -10,23 +10,23 @@ Auf Fahrbahnen, die so schmal sind, dass dort entgegen kommende Fahrzeuge gefäh
 
 (2a) Wer ein Fahrzeug führt, muss sich gegenüber Kindern, hilfsbedürftigen und älteren Menschen, insbesondere durch Verminderung der Fahrgeschwindigkeit und durch Bremsbereitschaft, so verhalten, dass eine Gefährdung dieser Verkehrsteilnehmer ausgeschlossen ist.
 
-(3) Die zulässige Höchstgeschwindigkeit beträgt auch unter günstigsten Umständen      
+(3) Die zulässige Höchstgeschwindigkeit beträgt auch unter günstigsten Umständen 
   1. innerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 50 km/h,
-  2. außerhalb geschlossener Ortschaften      
-     a) für    
-        aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t bis 7,5 t, ausgenommen Personenkraftwagen,      
-        bb) Personenkraftwagen mit Anhänger,      
-        cc) Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t mit Anhänger      
-            sowie      
-        dd) Kraftomnibusse, auch mit Gepäckanhänger,      
-        80 km/h,      
-     b) für    
-        aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 7,5 t,      
-        bb) alle Kraftfahrzeuge mit Anhänger, ausgenommen Personenkraftwagen, Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t,      
-            sowie      
-        cc) Kraftomnibusse mit Fahrgästen, für die keine Sitzplätze mehr zur Verfügung stehen,      
-        60 km/h,      
-     c) für Personenkraftwagen sowie für andere Kraftfahrzeuge mit einer zulässigen Gesamtmasse bis 3,5 t      
+  2. außerhalb geschlossener Ortschaften 
+     a) für 
+        aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t bis 7,5 t, ausgenommen Personenkraftwagen, 
+        bb) Personenkraftwagen mit Anhänger, 
+        cc) Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t mit Anhänger 
+            sowie 
+        dd) Kraftomnibusse, auch mit Gepäckanhänger, 
+        80 km/h, 
+     b) für 
+        aa) Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 7,5 t, 
+        bb) alle Kraftfahrzeuge mit Anhänger, ausgenommen Personenkraftwagen, Lastkraftwagen und Wohnmobile jeweils bis zu einer zulässigen Gesamtmasse von 3,5 t, 
+            sowie 
+        cc) Kraftomnibusse mit Fahrgästen, für die keine Sitzplätze mehr zur Verfügung stehen, 
+        60 km/h, 
+     c) für Personenkraftwagen sowie für andere Kraftfahrzeuge mit einer zulässigen Gesamtmasse bis 3,5 t 
         100 km/h.
 
 Diese Geschwindigkeitsbeschränkung gilt nicht auf Autobahnen (Zeichen 330.1) sowie auf anderen Straßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind.
