@@ -1,4 +1,4 @@
-### § 2 Straßenbenutzung durch Fahrzeuge
+## § 2 Straßenbenutzung durch Fahrzeuge
 
 (1)
 Fahrzeuge müssen die Fahrbahnen benutzen, von zwei Fahrbahnen die rechte.
