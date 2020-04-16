@@ -25,6 +25,10 @@ Wer mit dem Rad fährt, darf ferner rechte Seitenstreifen benutzen, wenn keine R
 Außerhalb geschlossener Ortschaften darf man mit Mofas Radwege benutzen.
 
 (5)
-Kinder bis zum vollendeten 8. Lebensjahr müssen, ältere Kinder bis zum vollendeten 10. Lebensjahr dürfen mit Fahrrädern Gehwege benutzen.
+Kinder bis zum vollendeten achten Lebensjahr müssen, Kinder bis zum vollendeten zehnten Lebensjahr dürfen mit Fahrrädern Gehwege benutzen.
+Ist ein baulich von der Fahrbahn getrennter Radweg vorhanden, so dürfen abweichend von Satz 1 Kinder bis zum vollendeten achten Lebensjahr auch diesen Radweg benutzen.
+Soweit ein Kind bis zum vollendeten achten Lebensjahr von einer geeigneten Aufsichtsperson begleitet wird, darf diese Aufsichtsperson für die Dauer der Begleitung den Gehweg ebenfalls mit dem Fahrrad benutzen; eine Aufsichtsperson ist insbesondere geeignet, wenn diese mindestens 16 Jahre alt ist.
 Auf zu Fuß Gehende ist besondere Rücksicht zu nehmen.
-Beim Überqueren einer Fahrbahn müssen die Kinder absteigen.
+Der Fußgängerverkehr darf weder gefährdet noch behindert werden.
+Soweit erforderlich, muss die Geschwindigkeit an den Fußgängerverkehr angepasst werden.
+Vor dem Überqueren einer Fahrbahn müssen die Kinder und die diese begleitende Aufsichtsperson absteigen.
