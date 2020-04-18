@@ -5,8 +5,15 @@ StVO-1970:
 - [ ] Novelle 1983:
 - [ ] Novelle 1992:
 - [ ] Novelle 1997:
-- [ ] Novelle 2009:
-- [ ] Novelle 2010:
+- [x] BR-Drs 162/06: https://www.bundesrat.de/bv.html?id=0162-06, http://dipbt.bundestag.de/extrakt/ba/WP16/81/8166.html
+- [ ] BR-Drs ???/??: Neunte Zuständigkeitsanpassungsverordnung, Artikel 474 (https://offenegesetze.de/veroeffentlichung/bgbl1/2006/50#page=79)
+- [x] BR-Drs 396/06: https://www.bundesrat.de/bv.html?id=0396-06, http://dipbt.bundestag.de/extrakt/ba/WP16/21/2131.html (nicht zugeleitet)
+- [x] BR-Drs 792/06: https://www.bundesrat.de/bv.html?id=0792-06, http://dipbt.bundestag.de/extrakt/ba/WP16/61/6121.html
+- [x] BR-Drs 670/07: https://www.bundesrat.de/bv.html?id=0670-07, http://dipbt.bundestag.de/extrakt/ba/WP16/101/10123.html
+- [x] BR-Drs 87/09: https://www.bundesrat.de/bv.html?id=0087-09, http://dipbt.bundestag.de/extrakt/ba/WP16/180/18005.html
+- [x] BR-Drs 153/09: https://www.bundesrat.de/bv.html?id=0153-09, http://dipbt.bundestag.de/extrakt/ba/WP16/183/18351.html
+- [x] BR-Drs 391/09: https://www.bundesrat.de/bv.html?id=0391-09, http://dipbt.bundestag.de/extrakt/ba/WP16/197/19705.html (Zuleitung in geänderter Fassung beschlossen)
+- [x] BR-Drs 699/10: https://www.bundesrat.de/bv.html?id=0699-10, http://dipbt.bundestag.de/extrakt/ba/WP17/306/30696.html
 
 StVO-2013:
 ---
