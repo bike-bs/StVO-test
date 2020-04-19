@@ -5,6 +5,15 @@ StVO-1970:
 - [ ] Novelle 1983:
 - [ ] Novelle 1992:
 - [ ] Novelle 1997:
+- [x] BR-Drs 465/02: https://www.bundesrat.de/bv.html?id=0456-02, http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html
+- [x] BR-Drs 625/02: https://www.bundesrat.de/bv.html?id=0625-02, http://dipbt.bundestag.de/extrakt/ba/WP15/947/94724.html (erledigt)
+- [x] BR-Drs 843/03: https://www.bundesrat.de/bv.html?id=0843-03, http://dipbt.bundestag.de/extrakt/ba/WP15/920/92004.html
+- [ ] BR-Drs ???/??: Gesetz zur Umbenennung des Bundesgrenzschutzes in Bundespolizei, Artikel 99 (https://offenegesetze.de/veroeffentlichung/bgbl1/2005/39#page=20)
+- [x] BR-Drs 469/05: https://www.bundesrat.de/bv.html?id=0469-05, http://dipbt.bundestag.de/extrakt/ba/WP15/979/97941.html
+- [x] BR-Drs 824/05: https://www.bundesrat.de/bv.html?id=0824-05, http://dipbt.bundestag.de/extrakt/ba/WP16/16/1687.html
+- [x] BR-Drs 813/05: https://www.bundesrat.de/bv.html?id=0813-05, http://dipbt.bundestag.de/extrakt/ba/WP16/11/1188.html
+- [x] BR-Drs 60/06: https://www.bundesrat.de/bv.html?id=0060-06, http://dipbt.bundestag.de/extrakt/ba/WP16/13/1386.html
+- [x] BR-Drs 165/06: https://www.bundesrat.de/bv.html?id=0165-06, http://dipbt.bundestag.de/extrakt/ba/WP16/18/1860.html
 - [x] BR-Drs 162/06: https://www.bundesrat.de/bv.html?id=0162-06, http://dipbt.bundestag.de/extrakt/ba/WP16/81/8166.html
 - [ ] BR-Drs ???/??: Neunte Zuständigkeitsanpassungsverordnung, Artikel 474 (https://offenegesetze.de/veroeffentlichung/bgbl1/2006/50#page=79)
 - [x] BR-Drs 396/06: https://www.bundesrat.de/bv.html?id=0396-06, http://dipbt.bundestag.de/extrakt/ba/WP16/21/2131.html (nicht zugeleitet)
