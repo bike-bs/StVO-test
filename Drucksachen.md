@@ -1,9 +1,10 @@
 StVO-1970:
 ---
 - [ ] Neufassung 1970: BR-Drs 420/70
-- [ ] Novelle 1980:
+- [ ] BR-Drs 162/78: http://dipbt.bundestag.de/extrakt/ba/WP8/2134/213496.html (Grunddrucksache + Ausschussempfehlungen fehlen)
+- [ ] BR-Drs 267/80: http://dipbt.bundestag.de/extrakt/ba/WP8/2174/217433.html (Grunddrucksache + Ausschussempfehlungen fehlen)
 - [ ] BR-Drs 57/82: http://dipbt.bundestag.de/extrakt/ba/WP9/2062/206224.html (Grunddrucksache + Ausschussempfehlungen fehlen)
-- [ ] BR-Drs 282/82: http://dipbt.bundestag.de/extrakt/ba/WP9/2062/206292.html (zurückgenommen)
+- [ ] BR-Drs 282/82: http://dipbt.bundestag.de/extrakt/ba/WP9/2062/206292.html (zurückgenommen, Grunddrucksache + Ausschussempfehlungen fehlen)
 - [ ] BR-Drs 265/83: http://dipbt.bundestag.de/extrakt/ba/WP10/1912/191249.html (Grunddrucksache + Ausschussempfehlungen fehlen)
 - [x] BR-Drs 234/84: http://dipbt.bundestag.de/extrakt/ba/WP10/1920/192014.html
 - [x] BR-Drs 502/84: http://dipbt.bundestag.de/extrakt/ba/WP10/1923/192319.html
@@ -22,22 +23,22 @@ StVO-1970:
 - [x] BR-Drs 371/95: http://dipbt.bundestag.de/extrakt/ba/WP13/1291/129105.html
 - [x] BR-Drs 391/95: http://dipbt.bundestag.de/extrakt/ba/WP13/1296/129601.html
 - [x] BR-Drs 374/97: http://dipbt.bundestag.de/extrakt/ba/WP13/1310/131099.html
-- [ ] BR-Drs 369/97: http://dipbt.bundestag.de/extrakt/ba/WP13/1298/129832.html (s.u., Zusatz fehlt)
+- [x] BR-Drs 369/97: http://dipbt.bundestag.de/extrakt/ba/WP13/1298/129832.html (s.u.)
 - [x] BT-Drs 13/8016, BT-Drs 13/8453, BT-Drs 13/8507, BT-Drs 13/8776, BT-Drs 13/8797, BT-Drs 13/8858: http://dipbt.bundestag.de/extrakt/ba/WP13/1298/129832.html (s.u.)
 - [x] BR-Drs 860/97: http://dipbt.bundestag.de/extrakt/ba/WP13/1298/129832.html
 - [x] BR-Drs 328/98: http://dipbt.bundestag.de/extrakt/ba/WP13/1354/135483.html
-- [ ] BR-Drs 599/00: http://dipbt.bundestag.de/extrakt/ba/WP14/1122/112281.html (Ausschussempfehlungen fehlen)
+- [x] BR-Drs 599/00: http://dipbt.bundestag.de/extrakt/ba/WP14/1122/112281.html
 - [ ] BR-Drs ???/??: Siebente Zuständigkeitsanpassungsverordnung, Artikel 411 (https://offenegesetze.de/veroeffentlichung/bgbl1/2001/55#page=103)
 - [x] BR-Drs 751/01: http://dipbt.bundestag.de/extrakt/ba/WP14/1136/113623.html
 - [x] BT-Drs 14/7921, BT-Drs 14/8342: http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (s.u.)
 - [x] BR-Drs 834/01: http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (s.u.)
-- [ ] BR-Drs 164/02: https://www.bundesrat.de/bv.html?id=0164-02, http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (Ausschussempfehlungen fehlen)
+- [ ] BR-Drs 164/02: https://www.bundesrat.de/bv.html?id=0164-02, http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (Ausschussempfehlungen fehlen, vermutlich unwichtig, Post- und telekommunikationsrechtliches Bereinigungsgesetz)
 - [x] BT-Drs 14/8447, BT-Drs 14/9066: http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html (s.u.)
-- [ ] BR-Drs 1091/01: http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html (s.u., Ausschussempfehlungen fehlen)
+- [ ] BR-Drs 1091/01: http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html (s.u., ein Klammertext (Ausschussempfehlung) fehlt, Rest angenommen + im Anhang)
 - [x] BR-Drs 456/02: https://www.bundesrat.de/bv.html?id=0456-02, http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html
 - [x] BR-Drs 625/02: https://www.bundesrat.de/bv.html?id=0625-02, http://dipbt.bundestag.de/extrakt/ba/WP15/947/94724.html (erledigt)
 - [x] BR-Drs 843/03: https://www.bundesrat.de/bv.html?id=0843-03, http://dipbt.bundestag.de/extrakt/ba/WP15/920/92004.html
-- [ ] BR-Drs ???/??: Gesetz zur Umbenennung des Bundesgrenzschutzes in Bundespolizei, Artikel 99 (https://offenegesetze.de/veroeffentlichung/bgbl1/2005/39#page=20) http://dipbt.bundestag.de/extrakt/ba/WP15/983/98327.html
+- [x] BR-Drs ???/??: Gesetz zur Umbenennung des Bundesgrenzschutzes in Bundespolizei, Artikel 99 (https://offenegesetze.de/veroeffentlichung/bgbl1/2005/39#page=20) http://dipbt.bundestag.de/extrakt/ba/WP15/983/98327.html
 - [x] BR-Drs 469/05: https://www.bundesrat.de/bv.html?id=0469-05, http://dipbt.bundestag.de/extrakt/ba/WP15/979/97941.html
 - [x] BR-Drs 824/05: https://www.bundesrat.de/bv.html?id=0824-05, http://dipbt.bundestag.de/extrakt/ba/WP16/16/1687.html
 - [x] BR-Drs 813/05: https://www.bundesrat.de/bv.html?id=0813-05, http://dipbt.bundestag.de/extrakt/ba/WP16/11/1188.html
