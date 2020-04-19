@@ -2,8 +2,19 @@ StVO-1970:
 ---
 - [ ] Neufassung 1970: BR-Drs 420/70
 - [ ] Novelle 1980:
-- [ ] Novelle 1983:
-- [ ] Novelle 1992:
+- [ ] BR-Drs 57/82: http://dipbt.bundestag.de/extrakt/ba/WP9/2062/206224.html (Grunddrucksache + Ausschussempfehlungen fehlen)
+- [ ] BR-Drs 282/82: http://dipbt.bundestag.de/extrakt/ba/WP9/2062/206292.html (zurückgenommen)
+- [ ] BR-Drs 265/83: http://dipbt.bundestag.de/extrakt/ba/WP10/1912/191249.html (Grunddrucksache + Ausschussempfehlungen fehlen)
+- [x] BR-Drs 234/84: http://dipbt.bundestag.de/extrakt/ba/WP10/1920/192014.html
+- [x] BR-Drs 502/84: http://dipbt.bundestag.de/extrakt/ba/WP10/1923/192319.html
+- [x] BR-Drs 237/86: http://dipbt.bundestag.de/extrakt/ba/WP10/1930/193055.html
+- [x] BR-Drs 577/87: http://dipbt.bundestag.de/extrakt/ba/WP11/1643/164313.html
+- [x] BR-Drs 379/88: http://dipbt.bundestag.de/extrakt/ba/WP11/1653/165371.html
+- [x] BR-Drs 291/89: http://dipbt.bundestag.de/extrakt/ba/WP11/1666/166648.html
+- [x] BR-Drs 496/91: http://dipbt.bundestag.de/extrakt/ba/WP12/1557/155748.html
+- [x] BR-Drs 75/92: http://dipbt.bundestag.de/extrakt/ba/WP12/1423/142330.html
+- [x] BR-Drs 786/92: http://dipbt.bundestag.de/extrakt/ba/WP12/1441/144193.html
+- [x] BR-Drs 689/93: http://dipbt.bundestag.de/extrakt/ba/WP12/1547/154755.html
 - [x] BR-Drs 131/93: http://dipbt.bundestag.de/extrakt/ba/WP12/1549/154909.html (s.u.)
 - [x] BT-Drs 12/5014, BT-Drs 12/6269, BT-Drs 12/6270, BT-Drs 12/6286, BT-Drs 12/6312: http://dipbt.bundestag.de/extrakt/ba/WP12/1549/154909.html (s.u.)
 - [x] BR-Drs 873/93: http://dipbt.bundestag.de/extrakt/ba/WP12/1549/154909.html
@@ -26,7 +37,7 @@ StVO-1970:
 - [x] BR-Drs 456/02: https://www.bundesrat.de/bv.html?id=0456-02, http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html
 - [x] BR-Drs 625/02: https://www.bundesrat.de/bv.html?id=0625-02, http://dipbt.bundestag.de/extrakt/ba/WP15/947/94724.html (erledigt)
 - [x] BR-Drs 843/03: https://www.bundesrat.de/bv.html?id=0843-03, http://dipbt.bundestag.de/extrakt/ba/WP15/920/92004.html
-- [ ] BR-Drs ???/??: Gesetz zur Umbenennung des Bundesgrenzschutzes in Bundespolizei, Artikel 99 (https://offenegesetze.de/veroeffentlichung/bgbl1/2005/39#page=20)
+- [ ] BR-Drs ???/??: Gesetz zur Umbenennung des Bundesgrenzschutzes in Bundespolizei, Artikel 99 (https://offenegesetze.de/veroeffentlichung/bgbl1/2005/39#page=20) http://dipbt.bundestag.de/extrakt/ba/WP15/983/98327.html
 - [x] BR-Drs 469/05: https://www.bundesrat.de/bv.html?id=0469-05, http://dipbt.bundestag.de/extrakt/ba/WP15/979/97941.html
 - [x] BR-Drs 824/05: https://www.bundesrat.de/bv.html?id=0824-05, http://dipbt.bundestag.de/extrakt/ba/WP16/16/1687.html
 - [x] BR-Drs 813/05: https://www.bundesrat.de/bv.html?id=0813-05, http://dipbt.bundestag.de/extrakt/ba/WP16/11/1188.html
