@@ -4,16 +4,24 @@ StVO-1970:
 - [ ] Novelle 1980:
 - [ ] Novelle 1983:
 - [ ] Novelle 1992:
-- [ ] Novelle 1997:
+- [x] BR-Drs 131/93: http://dipbt.bundestag.de/extrakt/ba/WP12/1549/154909.html (s.u.)
+- [x] BT-Drs 12/5014, BT-Drs 12/6269, BT-Drs 12/6270, BT-Drs 12/6286, BT-Drs 12/6312: http://dipbt.bundestag.de/extrakt/ba/WP12/1549/154909.html (s.u.)
+- [x] BR-Drs 873/93: http://dipbt.bundestag.de/extrakt/ba/WP12/1549/154909.html
+- [x] BR-Drs 782/94: http://dipbt.bundestag.de/extrakt/ba/WP12/1551/155105.html
+- [x] BR-Drs 371/95: http://dipbt.bundestag.de/extrakt/ba/WP13/1291/129105.html
+- [x] BR-Drs 391/95: http://dipbt.bundestag.de/extrakt/ba/WP13/1296/129601.html
+- [x] BR-Drs 374/97: http://dipbt.bundestag.de/extrakt/ba/WP13/1310/131099.html
+- [ ] BR-Drs 369/97: http://dipbt.bundestag.de/extrakt/ba/WP13/1298/129832.html (s.u., Zusatz fehlt)
+- [x] BT-Drs 13/8016, BT-Drs 13/8453, BT-Drs 13/8507, BT-Drs 13/8776, BT-Drs 13/8797, BT-Drs 13/8858: http://dipbt.bundestag.de/extrakt/ba/WP13/1298/129832.html (s.u.)
+- [x] BR-Drs 860/97: http://dipbt.bundestag.de/extrakt/ba/WP13/1298/129832.html
+- [x] BR-Drs 328/98: http://dipbt.bundestag.de/extrakt/ba/WP13/1354/135483.html
 - [ ] BR-Drs 599/00: http://dipbt.bundestag.de/extrakt/ba/WP14/1122/112281.html (Ausschussempfehlungen fehlen)
 - [ ] BR-Drs ???/??: Siebente Zuständigkeitsanpassungsverordnung, Artikel 411 (https://offenegesetze.de/veroeffentlichung/bgbl1/2001/55#page=103)
 - [x] BR-Drs 751/01: http://dipbt.bundestag.de/extrakt/ba/WP14/1136/113623.html
-- [x] BT-Drs 14/7921: http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (s.u.)
-- [x] BT-Drs 14/8342: http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (s.u.)
+- [x] BT-Drs 14/7921, BT-Drs 14/8342: http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (s.u.)
 - [x] BR-Drs 834/01: http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (s.u.)
 - [ ] BR-Drs 164/02: https://www.bundesrat.de/bv.html?id=0164-02, http://dipbt.bundestag.de/extrakt/ba/WP14/1150/115065.html (Ausschussempfehlungen fehlen)
-- [x] BT-Drs 14/8447: http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html (s.u.)
-- [x] BT-Drs 14/9066: http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html (s.u.)
+- [x] BT-Drs 14/8447, BT-Drs 14/9066: http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html (s.u.)
 - [ ] BR-Drs 1091/01: http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html (s.u., Ausschussempfehlungen fehlen)
 - [x] BR-Drs 456/02: https://www.bundesrat.de/bv.html?id=0456-02, http://dipbt.bundestag.de/extrakt/ba/WP14/1157/115785.html
 - [x] BR-Drs 625/02: https://www.bundesrat.de/bv.html?id=0625-02, http://dipbt.bundestag.de/extrakt/ba/WP15/947/94724.html (erledigt)
