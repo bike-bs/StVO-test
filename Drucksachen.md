@@ -1,6 +1,9 @@
 StVO-1970:
 ---
-- [ ] Neufassung 1970: BR-Drs 420/70
+- [ ] BR-Drs 420/70: (Neufassung) https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1970/Plenarprotokoll-357.pdf?__blob=publicationFile&v=2#page=4 (TOP 22), https://offenegesetze.de/veroeffentlichung/bgbl1/1970/108#page=1, Berichtigung: https://offenegesetze.de/veroeffentlichung/bgbl1/1971/5#page=14
+- [ ] BR-Drs 398/72: https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1972/Plenarprotokoll-385.pdf?__blob=publicationFile&v=2#page=3 (TOP 29), https://offenegesetze.de/veroeffentlichung/bgbl1/1972/119#page=1
+- [ ] BR-Drs 645/75: https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1975/Plenarprotokoll-427.pdf?__blob=publicationFile&v=2 (TOP 22), https://offenegesetze.de/veroeffentlichung/bgbl1/1975/137#page=1
+- [ ] BR-Drs 376/76: https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1976/Plenarprotokoll-437.pdf?__blob=publicationFile&v=2#page=5 (TOP 81), https://offenegesetze.de/veroeffentlichung/bgbl1/1976/96#page=3
 - [ ] BR-Drs 162/78: http://dipbt.bundestag.de/extrakt/ba/WP8/2134/213496.html (Grunddrucksache + Ausschussempfehlungen fehlen)
 - [ ] BR-Drs 267/80: http://dipbt.bundestag.de/extrakt/ba/WP8/2174/217433.html (Grunddrucksache + Ausschussempfehlungen fehlen)
 - [ ] BR-Drs 57/82: http://dipbt.bundestag.de/extrakt/ba/WP9/2062/206224.html (Grunddrucksache + Ausschussempfehlungen fehlen)
